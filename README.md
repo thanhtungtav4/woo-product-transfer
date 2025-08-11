@@ -17,3 +17,10 @@ Plugin WP-CLI để **xuất / nhập sản phẩm WooCommerce** ở định d�
 ## 📦 Cài đặt
 
 1. Copy thư mục `woo-product-transfer` vào:
+
+wp-content/plugins/woo-product-transfer
+
+
+2. Kích hoạt plugin:
+```bash
+wp plugin activate woo-product-transfer --allow-root
